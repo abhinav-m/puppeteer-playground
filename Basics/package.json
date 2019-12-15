@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-basics",
+  "version": "1.0.0",
+  "description": "Exploring puppeteer",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --inspect index.js"
+  },
+  "author": "Abhinav Mishra",
+  "license": "ISC"
+}
